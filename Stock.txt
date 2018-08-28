@@ -1,0 +1,13 @@
+Banana   Vegetables    87      14
+Pepsi    Drinking      235     5
+Shrimp   Meat          68      160
+Chipsy   Takeaway      93      7
+Prill    Washing       62      23
+Biscream Takeaway      48      5
+Lamar    Drinking      34      8
+Tomatoes Vegetables    57      6
+Galaxy   Takeaway      29      10
+Kufta    Meat          54      120
+Bread    Takeaway      183     8
+
+

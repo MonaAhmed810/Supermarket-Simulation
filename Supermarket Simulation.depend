@@ -1,0 +1,588 @@
+# depslib dependency file v1.0
+1513374679 source:e:\fci\second year ,,first term\oop\supermarket simulation\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513375507 e:\fci\second year ,,first term\oop\supermarket simulation\customer.h
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513363871 e:\fci\second year ,,first term\oop\supermarket simulation\time.h
+	<iostream>
+
+1513362282 e:\fci\second year ,,first term\oop\supermarket simulation\person.h
+	<iostream>
+
+1513364086 source:e:\fci\second year ,,first term\oop\supermarket simulation\items.cpp
+	"Items.h"
+	<iostream>
+
+1513362653 e:\fci\second year ,,first term\oop\supermarket simulation\items.h
+	<iostream>
+
+1446667744 source:e:\fci\second year ,,first term\oop\supermarket simulation\main.cpp
+	<iostream>
+
+1513362280 source:e:\fci\second year ,,first term\oop\supermarket simulation\person.cpp
+	"Person.h"
+	<iostream>
+
+1513364104 source:e:\fci\second year ,,first term\oop\supermarket simulation\time.cpp
+	"Time.h"
+	<iostream>
+
+1513373926 e:\fci\second year ,,first term\oop\supermarket simulation\shoppingitem.h
+	<iostream>
+
+1513373943 source:e:\fci\second year ,,first term\oop\supermarket simulation\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1513375542 source:e:\fci\second year ,,first term\oop\supermarket simulation\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	"Person.h"
+	"Customer.h"
+
+1513375542 e:\fci\second year ,,first term\oop\supermarket simulation\administrator.h
+	<iostream>
+	"Person.h"
+	"Customer.h"
+
+1513375799 source:e:\fci\second year ,,first term\oop\supermarket simulation\stock.cpp
+	"Stock.h"
+	<iostream>
+	"Items.h"
+
+1513375829 e:\fci\second year ,,first term\oop\supermarket simulation\stock.h
+	<iostream>
+	"Items.h"
+
+1513946336 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	"Person.h"
+	"Customer.h"
+
+1513972171 e:\fci\second year ,,first term\oop\supermarket simulation v#2\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1513362282 e:\fci\second year ,,first term\oop\supermarket simulation v#2\person.h
+	<iostream>
+
+1513973471 e:\fci\second year ,,first term\oop\supermarket simulation v#2\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1513969727 e:\fci\second year ,,first term\oop\supermarket simulation v#2\time.h
+	<iostream>
+
+1513373926 e:\fci\second year ,,first term\oop\supermarket simulation v#2\shoppingitem.h
+	<iostream>
+
+1513966129 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513364086 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\items.cpp
+	"Items.h"
+	<iostream>
+
+1513960605 e:\fci\second year ,,first term\oop\supermarket simulation v#2\items.h
+	<iostream>
+
+1513362280 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\person.cpp
+	"Person.h"
+	<iostream>
+
+1513373943 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1513944591 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\stock.cpp
+	"Stock.h"
+	<iostream>
+	"Items.h"
+
+1513966129 e:\fci\second year ,,first term\oop\supermarket simulation v#2\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1513972338 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\time.cpp
+	"Time.h"
+	<iostream>
+
+1513972275 source:e:\fci\second year ,,first term\oop\supermarket simulation v#2\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513978389 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513975421 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1513976769 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\time.h
+	<iostream>
+
+1513976040 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\person.h
+	<iostream>
+
+1513976508 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\shoppingitem.h
+	<iostream>
+
+1513979535 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1513975887 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\items.h
+	<iostream>
+
+1513975903 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\items.cpp
+	"Items.h"
+	<iostream>
+
+1513979517 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513975188 c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1513976048 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\person.cpp
+	"Person.h"
+	<iostream>
+
+1513976505 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1513979697 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\stock.cpp
+	"Stock.h"
+	<iostream>
+	"Items.h"
+
+1513976769 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\time.cpp
+	"Time.h"
+	<iostream>
+
+1513977687 source:c:\users\yusuf\desktop\hhhhhhhhh\supermarket simulation v#2\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050156 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\person.h
+	<iostream>
+
+1514050988 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1514049511 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\time.h
+	<iostream>
+
+1514050988 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\shoppingitem.h
+	<iostream>
+
+1514050989 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1513975887 c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\items.h
+	<iostream>
+
+1514050482 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513975903 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\items.cpp
+	"Items.h"
+	<iostream>
+
+1514050156 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513976048 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\person.cpp
+	"Person.h"
+	<iostream>
+
+1514024452 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1514024452 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\stock.cpp
+	"Stock.h"
+	<iostream>
+	"Items.h"
+
+1514049511 source:c:\users\mona-pc\downloads\supermarket simulation v#3\supermarket simulation v#3\time.cpp
+	"Time.h"
+	<iostream>
+
+1514050156 source:c:\users\yusuf\desktop\new folder\supermarket simulation v#3\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\person.h
+	<iostream>
+
+1514050988 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1514049511 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\time.h
+	<iostream>
+
+1514050988 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\shoppingitem.h
+	<iostream>
+
+1514050989 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1513975887 c:\users\yusuf\desktop\new folder\supermarket simulation v#3\items.h
+	<iostream>
+
+1514050482 source:c:\users\yusuf\desktop\new folder\supermarket simulation v#3\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513975903 source:c:\users\yusuf\desktop\new folder\supermarket simulation v#3\items.cpp
+	"Items.h"
+	<iostream>
+
+1514050156 source:c:\users\yusuf\desktop\new folder\supermarket simulation v#3\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513976048 source:c:\users\yusuf\desktop\new folder\supermarket simulation v#3\person.cpp
+	"Person.h"
+	<iostream>
+
+1514202678 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\administrator.cpp
+	"Administrator.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1514050988 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\person.h
+	<iostream>
+
+1514202468 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1514202551 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\time.h
+	<iostream>
+
+1514050988 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\shoppingitem.h
+	<iostream>
+
+1514050989 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1513975887 c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\items.h
+	<iostream>
+
+1514050482 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513975903 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\items.cpp
+	"Items.h"
+	<iostream>
+
+1514050156 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513976048 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\person.cpp
+	"Person.h"
+	<iostream>
+
+1514061107 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1514207812 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\stock.cpp
+	"Stock.h"
+	"windows.h"
+	<iostream>
+	"Items.h"
+
+1514202551 source:c:\users\yusuf\desktop\20160299_20160277_20160253\supermarket simulation v#3\time.cpp
+	"Time.h"
+	<iostream>
+
+1514202678 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\administrator.cpp
+	"Administrator.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1535411831 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\administrator.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Person.h"
+	"Customer.h"
+	"Stock.h"
+	"Items.h"
+	"Time.h"
+
+1535411831 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\person.h
+	<iostream>
+
+1535411830 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\customer.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"Time.h"
+	"Person.h"
+	"ShoppingItem.h"
+	"Stock.h"
+
+1535411830 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\time.h
+	<iostream>
+
+1535411831 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\shoppingitem.h
+	<iostream>
+
+1514050989 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\stock.h
+	<iostream>
+	"Items.h"
+	<fstream>
+	<iomanip>
+
+1535411831 e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\items.h
+	<iostream>
+
+1514050482 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\customer.cpp
+	"Customer.h"
+	<iostream>
+	"Time.h"
+	"Person.h"
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"ShoppingItem.h"
+
+1513975903 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\items.cpp
+	"Items.h"
+	<iostream>
+
+1535411490 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\main.cpp
+	<iostream>
+	<fstream>
+	"Stock.h"
+	"Administrator.h"
+	"Customer.h"
+
+1513976048 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\person.cpp
+	"Person.h"
+	<iostream>
+
+1514061107 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\shoppingitem.cpp
+	"ShoppingItem.h"
+	<iostream>
+
+1514207812 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\stock.cpp
+	"Stock.h"
+	"windows.h"
+	<iostream>
+	"Items.h"
+
+1514202551 source:e:\fci\second year ,,first term\oop\supermarket simulation v#3\supermarket simulation v#3\time.cpp
+	"Time.h"
+	<iostream>
+
